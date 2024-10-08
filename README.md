@@ -33,4 +33,5 @@ Shortcuts I frequently use:
 - Win-D (show desktop)
 - Ctrl-X (cut)
 
+
 [CLI commands](docs/cli.md)
