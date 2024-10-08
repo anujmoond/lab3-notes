@@ -32,3 +32,5 @@ Shortcuts I frequently use:
 - Ctrl-A (select all)
 - Win-D (show desktop)
 - Ctrl-X (cut)
+
+[CLI commands](docs/cli.md)
